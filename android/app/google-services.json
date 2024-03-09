@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329326881797",
+    "project_id": "diabetes-guide-f8013",
+    "storage_bucket": "diabetes-guide-f8013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329326881797:android:772ef3552c309a4c05006c",
+        "android_client_info": {
+          "package_name": "com.example.diabetic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSc4aqRbF1xNKaB5mHfhDA830vyJ5LSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
